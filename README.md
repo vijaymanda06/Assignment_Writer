@@ -9,6 +9,5 @@ Capital Letters and numbers!
 V3.0 : <br />
 Everything works! , new handwriting styles added!
 <br />
-Output:
-![alt text](https://github.com/SaiTeja69/Assignment_Writer/blob/master/output.jpg)
+
 
